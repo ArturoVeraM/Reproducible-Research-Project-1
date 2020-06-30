@@ -1,7 +1,8 @@
 ---
-Title: "Reproducible Research Project 1"
+Title: Reproducible Research Project 1
 author: "Arturo Vera"
 date: "2020/06/28"
+keep_md: TRUE 
 ---
 
 # Reproducible Research Project 1
